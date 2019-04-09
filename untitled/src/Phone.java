@@ -10,5 +10,6 @@ public class Phone {
     public void senMessage(){
 
         System.out.println("gei shui duanxin");
+
     }
 }
