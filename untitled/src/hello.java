@@ -13,6 +13,12 @@ public class hello extends Phone {
         wwdd.Array2Demo2();
 
 
+        ArrayDemo3 wds=new ArrayDemo3();
+        wds.ArrayDemo3();
+        wds.change(11,22);
+        int [] arr ={1,2,3,4,5};
+        wds.change(arr);
+
 
     }
 
