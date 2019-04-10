@@ -20,6 +20,22 @@ public class hello extends Phone {
         wds.change(arr);
 
 
+        JjaMiDemo2 jiami=new JjaMiDemo2();
+
+        int ddsww=jiami.JjaMiDemo2();
+
+        jiami.jiaMi(ddsww);
+
+        PhoneDemo3 pd3=new PhoneDemo3();
+        pd3.PhoneDemo3();
+
+        new StubentDemo09().test(new Student09());
+
+        StudentDemo0901 std0901 =new StudentDemo0901();
+        Student0901 st0901=new Student0901();
+std0901.test(st0901);
+
+
     }
 
 }
