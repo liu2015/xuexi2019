@@ -10,4 +10,5 @@ class StubentDemo09{
     public void test(Student09 s){
         s.love();
     }
+
 }
